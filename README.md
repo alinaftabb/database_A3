@@ -126,19 +126,6 @@ Write SQL queries to:
 2. **Insert data**.
 3. **Fetch data** to demonstrate system functionality.
 
-### What to Submit
-
-1. **Report**: 
-   - ER diagram
-   - Relational database schema
-   - SQL queries for table and constraints creation
-   - SQL queries for data insertion and fetching
-   - SQL and Relational algebra queries for reports
-   - Snapshot of the tuples in tables and results of the SQL queries
-
-2. **Implementation Files**:
-   - Include all the SQL scripts in the provided format and the `.zip` file with the correct naming convention.
-
 ### Conclusion
 
-This project covers the design and implementation of a healthcare scheduling system using SQL, ER diagrams, and relational algebra. Ensure to follow the specified format and requirements for successful submission and grading.
+This project covers the design and implementation of a healthcare scheduling system using SQL, ER diagrams, and relational algebra. 
